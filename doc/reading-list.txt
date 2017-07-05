@@ -1,0 +1,13 @@
+Papers on multi-channel:
+
+Better DSP and AMs:
+
+Acoustic modeling for Google Home
+http://www.cs.cmu.edu/~chanwook/MyPapers/b_li_interspeech_2017.pdf
+
+Multichannel Signal Processing with Deep Neural Networks for Automatic Speech Recognition
+http://www.ee.columbia.edu/~ronw/pubs/taslp2017-multichannel.pdf
+[alternate link] https://drive.google.com/file/d/0ByfBg9vVsBJ-OHpycWV6VllxVGM/view
+
+Speaker Diarization
+
