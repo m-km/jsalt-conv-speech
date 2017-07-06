@@ -37,14 +37,31 @@ AMI corpus, using Kaldi models and baseline for AMI.
 ## Social analysis
 
 Week1 goals:
-1. Propose Better Diarization Metrics [Mark]
-2. See how the proposed metrics affects DER for AMI [Jan]
-3. Standardize diarization tool. Pick one [Matthew, Jan]
-4. iVector Generalization for multi-channel. See http://www.ee.columbia.edu/~ronw/pubs/taslp2017-multichannel.pdf for motivation [Sriram]
-5. Source Separation using oracle segmentation on Beamformed channel, get WER/DER [Jun]
-6. Use IHM, Array-mics to dereverb, get WER, DER
-7. Social Analysis  [Zhou]
-
+1. Propose Better Diarization Metrics [Mark] 
+  -- Tools to build diarization metric (different scripting methods) [Diana].
+2. See how the proposed metrics affects DER for AMI [Sriram]
+  -- Do diarization (using DiarTK) for SDM1 and beamformed output (BeamformIt toolkit also available) [Matthew].  
+  -- A possiblity to run on more than 2 channels [Ken].
+  -- ivector based diarization [Jan].
+  -- Analyze the gold standards from AMI (with energy) [Ken].
+  -- Collar size experiments [Jan]
+3. Understand iVector formulation for multi-channel. See http://www.ee.columbia.edu/~ronw/pubs/taslp2017-multichannel.pdf for motivation [Sriram]
+  -- Presentation on Monday afternooon 2pm [Mahesh]
+4. Source Separation using oracle segmentation on SDM, get WER/DER [Jun]
+  -- Speech enhancement, generate audio back and send out [Lei]. 
+  -- Early work on Overlap speech detection and separation.
+  -- Early work on the use of IHM, Array-mics to dereverb, get WER, DER [Yu Ding].
+5. ASR baselines on AMI [Neville]
+  -- Get setup locally on bridges [Mathew]
+  -- Rebuild the model in JHU.
+  -- make a short presentation on Monday afternoon. [Mathew].
+  -- SDM first and then on to the IHM setup.
+6. Social Analysis  [Zhou]
+  -- AMI using gold transcriptions.
+7. Homebank [Rajat] 
+  -- Look at the annotation. Speech activity detection confusion matrix may be ?
+  -- 159 manually handpicked and annotated. 
+  -- Diarization [Mark/Elika] 
 
 Week2 goals:
 
