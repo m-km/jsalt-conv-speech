@@ -36,7 +36,7 @@ AMI corpus, using Kaldi models and baseline for AMI.
 
 ## Social analysis
 
-Week1 goals:
+# Week1 goals:
 1. Propose Better Diarization Metrics __[Mark]__ 
     * Tools to build diarization metric (different scripting methods) __[Diana]__.
 2. See how the proposed metrics affects DER for AMI __[Sriram]__
