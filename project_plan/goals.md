@@ -53,7 +53,7 @@ Week1 goals:
     * Early work on the use of IHM, Array-mics to dereverb, get WER, DER __[Yu Ding]__.
 5. ASR baselines on AMI __[Neville]__
     * Get setup locally on bridges __[Mathew]__
-    * Rebuild the model in JHU.
+    * Rebuild the model in JHU __[Matthew]__
     * Make a short presentation on Monday afternoon. __[Mathew]__.
     * SDM first and then on to the IHM setup __[Matthew]__
     * Transfer Kaldi setup from JHU to Bridges __[Neville]__
