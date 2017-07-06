@@ -1,5 +1,6 @@
 # High level goals
 
+0. Document results in progress/report-week-__n__.md
 1. Show that diarization metrics do not capture short turns, propose a new metric
 2. Show relevance of processing multi-channel audio for speaker diarization
 3. Show relevance of processing multi-channel audio for ASR by improving/using:
@@ -11,12 +12,17 @@
 5. Social analysis of overlap and speaker changes in conversational speech
 
 ## Better Diarization Metrics
+[Mark, Ken]
 
-## Multi-channel audio for better diarization
+## Processing Multi-channel audio for better diarization
+1. iVector generalization for multiple channels
+2. 
 
-## Multi-channel audio for better ASR
+## Processing Multi-channel audio for better ASR
 
 ## Diarization in the wild
+1. HomeBank Analysis
+
 
 ## Social analysis
 
