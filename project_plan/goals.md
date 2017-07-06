@@ -11,12 +11,13 @@
 4. How do we do on diarization in the wild (HomeBank)
 5. Social analysis of overlap and speaker changes in conversational speech
 
-# Corpus, Baseline Models and Tools
+## Corpus, Baseline Models and Tools
 ## Training and development
 AMI corpus, using Kaldi models and baseline for AMI.
 
 ## Testing
 
+# Subtasks
 ## Better Diarization Metrics
 [Mark, Ken]
 
