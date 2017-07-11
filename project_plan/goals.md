@@ -11,31 +11,6 @@
 4. How do we do on diarization in the wild (HomeBank)
 5. Social analysis of overlap and speaker changes in conversational speech
 
-## Corpus, Baseline Models and Tools
-## Training and development
-AMI corpus, using Kaldi models and baseline for AMI.
-
-## Testing
-
-# Subtasks
-## Better Diarization Metrics
-[Mark, Ken]
-
-
-
-## Processing Multi-channel audio for better diarization
-1. iVector generalization for multiple channels
-2. Overlap detection
-
-## Processing Multi-channel audio for better ASR
-1. Source separation
-
-## Diarization in the wild
-1. HomeBank Analysis
-
-
-## Social analysis
-
 # Week1 goals:
 1. Propose Better Diarization Metrics __[Mark]__ 
     * Tools to build diarization metric (different scripting methods) __[Diana]__.
