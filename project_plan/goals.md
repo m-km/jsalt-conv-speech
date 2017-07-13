@@ -55,6 +55,9 @@
     * Use Jun Du group's beamforming output to see if it can be used for diarization
     * More analysis on site/room characteristics with social analysis from Zhao
 
+5. Social Analysis __[Zhou]__
+    * Analyze dialog acts
+
 5. Multi-channel processing __[Sriram]__
     * Generate synthetic 3-channel TIMIT data with different SNR __[Sriram]__
     * Train and test 2D and 3D CNN models using Keras/Kaldi (https://github.com/dspavankumar/keras-kaldi) __[Neville]__
