@@ -20,7 +20,7 @@ MDM8    | 18.??
 
 ### Brno baseline, not using oracle SAD
 
-Dataset | Collar Size [ms] :|	EVAL	| DEV
+Dataset | Collar Size [ms]  |	EVAL	| DEV
 --------|-------------------|-------|------
 MDM8    | 500	              | 78.16	| 75.09
 MDM8    | 750	              | 68.32	| 65.75
