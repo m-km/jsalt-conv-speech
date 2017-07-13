@@ -14,6 +14,7 @@ MDM8    | 35.8 | 38.6
 ### Kaldi baseline **using** oracle SAD, collar size of ??
 
 Dataset | Dev
+--------|------
 SDM1    | 22.??
 MDM8    | 18.??
 
