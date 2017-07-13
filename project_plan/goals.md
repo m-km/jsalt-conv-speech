@@ -39,7 +39,7 @@
     * 159 manually handpicked and annotated. 
     * Diarization __[Mark/Elika]__ 
 
-Week2 goals:
+# Week2 goals:
 1. Make Brno and JHU systems somewhat comparable __[Matthew]__
     * Attributing SAD errors __[Jan]__
     * Using SAD (Energy, Phonetic or ASR based) to reevaluate JHU DER __[Matthew]__
