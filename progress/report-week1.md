@@ -68,6 +68,4 @@ TS3004c     | 0.220391     | 0.071781     | 0.14861     | 0.230300     | 0.08478
 TS3004d     | 0.187181     | 0.068961     | 0.11822     | 0.208496     | 0.095031     | 0.113465
 
 Box plot of within 
-![alt text][logo]
-
-[site-comparison]: https://github.com/m-km/jsalt-conv-speech/blob/master/images/ami-sdm-mdm-comparison.png "site comparison"
+![site-comparison]: https://github.com/m-km/jsalt-conv-speech/blob/master/images/ami-sdm-mdm-comparison.png "site comparison"
