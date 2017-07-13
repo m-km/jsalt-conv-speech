@@ -67,4 +67,8 @@ TS3004b     | 0.261175     | 0.118959     | 0.142216     | 0.235435     | 0.0912
 TS3004c     | 0.220391     | 0.071781     | 0.14861     | 0.230300     | 0.084783     | 0.145517
 TS3004d     | 0.187181     | 0.068961     | 0.11822     | 0.208496     | 0.095031     | 0.113465
 
+#### Site Comparison
 ![alt text](https://github.com/m-km/jsalt-conv-speech/blob/master/images/ami-sdm-mdm-comparison.png "Site comparison")
+![alt text](https://github.com/m-km/jsalt-conv-speech/blob/master/images/ami-site-diff.png "Site diff")
+
+
