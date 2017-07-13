@@ -70,4 +70,4 @@ TS3004d     | 0.187181     | 0.068961     | 0.11822     | 0.208496     | 0.09503
 Box plot of within 
 ![alt text][logo]
 
-[site-comparison]: (../images/ami-sdm-mdm-comparison.png) "site comparison"
+[site-comparison]: https://github.com/m-km/jsalt-conv-speech/blob/master/images/ami-sdm-mdm-comparison.png "site comparison"
