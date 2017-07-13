@@ -11,14 +11,14 @@ MDM8    | 35.8 | 38.6
 
 
 ## AMI DER Results
-### Kaldi baseline **using** oracle SAD, collar size of ??
+### Kaldi baseline using oracle SAD, collar size of ??
 
 Dataset | Dev
 --------|------
 SDM1    | 22.??
 MDM8    | 18.??
 
-### Brno baseline, ** not using ** oracle SAD
+### Brno baseline, not using oracle SAD
 
 Dataset | Collar Size [ms] *|	EVAL	| DEV
 --------|-------------------|-------|------
