@@ -40,6 +40,30 @@
     * Diarization __[Mark/Elika]__ 
 
 Week2 goals:
+1. Make Brno and JHU systems somewhat comparable __[Matthew]__
+    * Attributing SAD errors __[Jan]__
+    * Using SAD (Energy, Phonetic or ASR based) to reevaluate JHU DER __[Matthew]__
+    * Investigate if SAD markers can be provided to the Brno system __[Jan]__
+
+2. Evaluate JHU system for mismatched condition. Using MDM8 models on SDM1 __[Matthew]__
+
+3. Speech enhancement __[Jun]__
+    * Generate cleaned up audio files from denoising and dereverberation
+    * Train and test using JHU setup with help from Matthew
+
+4. Speaker Diarization __[Ken]__
+    * Use Jun Du group's beamforming output to see if it can be used for diarization
+    * More analysis on site/room characteristics with social analysis from Zhao
+
+5. Multi-channel processing __[Sriram]__
+    * Generate synthetic 3-channel TIMIT data with different SNR __[Sriram]__
+    * Train and test 2D and 3D CNN models using Keras/Kaldi (https://github.com/dspavankumar/keras-kaldi) __[Neville]__
+    * 3D CNN model support and developing any new module needed __[Mahesh]__
+
+6. HomeBank analysis __[Rajat]__
+    * Document data being analyzed
+    * Diarization error rate baseline
+
 
 Week3 goals:
 
