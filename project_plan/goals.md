@@ -53,7 +53,7 @@
 
 4. Speaker Diarization __[Ken]__
     * Use Jun Du group's beamforming output to see if it can be used for diarization
-    * More analysis on site/room characteristics with social analysis from Zhao
+    * More analysis on site/room characteristics with social analysis from Zhou
 
 5. Social Analysis __[Zhou]__
     * Analyze dialog acts
