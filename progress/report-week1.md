@@ -11,12 +11,12 @@ MDM8    | 35.8 | 38.6
 
 
 ## AMI DER Results
-### Kaldi baseline using oracle SAD, collar size of ??
+### Kaldi baseline using oracle SAD, window 1.5s period 0.75s
 
-Dataset | Dev
---------|------
-SDM1    | 22.??
-MDM8    | 18.??
+Dataset | Dev   | Eval
+--------|-------|------
+SDM1    | 25.98 | 22.14
+MDM8    | 21.82 | 15.81
 
 ### Brno baseline, not using oracle SAD
 
