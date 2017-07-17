@@ -22,8 +22,14 @@ MDM8    | 21.82 | 15.81
 
 Dataset | Dev   | Eval
 --------|-------|------
-SDM1    | 36.27 | 37.63
+SDM1    | 45.13 | 43.81
 MDM8    | ????? | ?????
+
+### Kaldi baseline using energy SAD, window 1.5s period 0.75s
+
+Dataset | Dev   | Eval
+--------|-------|------
+SDM1    | 36.27 | 37.63
 
 ### Brno baseline, not using oracle SAD
 
