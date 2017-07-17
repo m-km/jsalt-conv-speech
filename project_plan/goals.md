@@ -64,7 +64,7 @@
     * 3D CNN model support and developing any new module needed __[Mahesh]__
 
 6. HomeBank analysis __[Rajat]__
-    * Document data being analyzed
+    * Document data being analyzed (copy of the VanDam corpus currently at /home/rkulshre/Vandam )
     * Diarization error rate baseline
 
 
