@@ -18,6 +18,13 @@ Dataset | Dev   | Eval
 SDM1    | 25.98 | 22.14
 MDM8    | 21.82 | 15.81
 
+### Kaldi baseline using GMM speech/nonspeech SAD, window 1.5s period 0.75s
+
+Dataset | Dev   | Eval
+--------|-------|------
+SDM1    | 36.27 | 37.63
+MDM8    | ????? | ?????
+
 ### Brno baseline, not using oracle SAD
 
 Dataset | Collar Size [ms]  |	EVAL	| DEV
