@@ -9,7 +9,7 @@ Dataset | EVAL	| DEV
 SDM1    | 24.63	| 25.73
 MDM8    | 23.31 | 24.84
 
-### ### Brno system using score normalization (s-normalization) (voicebiometry.org), using oracle SAD
+### Brno system using score normalization (s-normalization) (voicebiometry.org), using oracle SAD
 
 Dataset | EVAL	| DEV
 --------|-------|------
