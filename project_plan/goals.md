@@ -69,7 +69,44 @@
 
 
 Week3 goals:
+1. Diarization - 
+       * Brno system  without assumptions about the number of speakers [Jan].
+       * Analyze why the error is so high from DiarTk/Brno/JHU. [Mark] 
+       * Home Bank Diarization using DiarTk. [Rajat]. 
+       * Using the GMM-SAD on Brno System [Jan].
+       * Mismatch in i-vector training SDM1, IHM [Matthew].
+       * i-vectors dumped [Matthew].
+       * Brno system on bridges. [Jan].
+       * Learning regression for system combination [Ken]
 
+2. Documentation for corpora
+      * AMI Corpus Documentation [Neville].
+      * HomeBank Documention [Rajat].
+      
+3. SAD setup which can work on AMI (Not sure at the moment ?).
+
+4. Speech Enhancement
+     * Uniformly improving over all meetings (MDM). [Yu Ding].
+     * SDM diarization results using DiarTk. 
+     * SAD - GMM setup in Bridges [Matthew/Neville].
+     * CGMM beamformer testing [Lei].
+
+5. Social Analysis [Zhou]
+    * Backchannel detection using text.
+    * Frequency of backchannel.
+    
+6. ASR and multi-channel
+    * TIMIT with 3-D models [Sriram].
+    * Basic DNN/CNN on AMI [Sriram].
+    * Complicated Keras models which work on multiple GPUs [Neville]. 
+    
+7. HomeBank [Rajath]
+   * Classification of speakers. 
+   
+8. ADOS dataset [Mark, Neville].
+   
+
+   
 Week4 goals:
 
 Week5 goals:
