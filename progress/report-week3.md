@@ -3,6 +3,7 @@
 ## AMI DER Results
 
 ### Brno baseline system (voicebiometry.org), using oracle SAD
+#### Technical description http://voicebiometry.org/download/interspeech2015-vbs-technical-description.pdf 
 
 Dataset | EVAL	| DEV
 --------|-------|------
