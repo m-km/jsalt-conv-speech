@@ -14,3 +14,9 @@ MDM8    | 19.47 | 19.28
 Dataset | EVAL	| DEV
 --------|-------|------
 MDM8    | 26.26 | 24.20
+
+### Brno system - same setup, speaker profile extracted from all other recordings in meeting
+
+Dataset | EVAL	| DEV
+--------|-------|------
+MDM8    | 18.85 | 17.47
