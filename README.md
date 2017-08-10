@@ -1,5 +1,11 @@
 # jsalt-conv-speech
-Scripts and source files for JSALT 2017 workshop
+
+JSALT 2017 workshop
+
+Watch this space for updates on:
+- Technical Report
+- Tools and recipes - training & evaluation scripts and pre-trained models
+- Diarization Challenge
 
 ## Documentation
 ### Computing
