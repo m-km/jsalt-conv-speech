@@ -219,6 +219,15 @@ def parse_additional_columns(spec_str):
         return [pair.split('=') for pair in spec_str.split(';')]
 
 
+def _get_fids(ref_rttm_dir, sys_rttm_dir):
+    ref_bns = [os.path.basename(fn)
+               for fn in glob.glob(os.path.join(ref_rttm_dir, '*.rttm'))]
+    sys_bns = [os.path.basename(fn)
+               for fn in glob.glob(os.path.join(sys_rttm_dir, '*.rttm'))]
+    bns = set(ref_bns) & set(sys_bns)
+    return sorted([bn.replace('.rttm', '') for bn in bns])
+
+
 if __name__ == '__main__':
     # Parse command line arguments.
     parser = argparse.ArgumentParser(
@@ -262,9 +271,7 @@ if __name__ == '__main__':
         with open(args.scpf, 'rb') as f:
             fids = [line.strip() for line in f]
     else:
-        bns = [os.path.basename(fn)
-               for fn in glob.glob(os.path.join(args.ref_rttm_dir, '*.rttm'))]
-        fids = [os.path.splitext(bn)[0] for bn in bns]
+        fids = _get_fids(args.ref_rttm_dir, args.sys_rttm_dir)
     rows = score_recordings(
         fids, args.ref_rttm_dir, args.sys_rttm_dir, args.collar,
         args.ignore_overlaps, args.step, args.n_jobs)
